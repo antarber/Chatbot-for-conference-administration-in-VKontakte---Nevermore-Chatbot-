@@ -1,0 +1,17 @@
+2025-03-30 18:07:42 - {"action":"mute_user","user_id":"648204453","peer_id":2000000003,"duration":10,"is_sync":false,"timestamp":1743350862}
+2025-03-30 18:07:45 - {"delete_message_start":"Попытка удалить сообщение 0 в peer_id 2000000003"}
+2025-03-30 18:07:48 - {"delete_message_start":"Попытка удалить сообщение 0 в peer_id 2000000003"}
+2025-03-30 18:15:22 - {"action":"set_nickname","user_id":"648204453","peer_id":2000000005,"nickname":"test","admin_id":648204453,"is_sync":true,"timestamp":1743351322}
+2025-03-30 18:15:22 - {"action":"set_nickname","user_id":"648204453","peer_id":2000000006,"nickname":"test","admin_id":648204453,"is_sync":false,"timestamp":1743351322}
+2025-03-30 18:38:44 - {"action":"mute_user","user_id":"648204453","peer_id":2000000005,"duration":10,"is_sync":false,"timestamp":1743352724}
+2025-03-30 18:41:24 - {"action":"set_nickname","user_id":"648204453","peer_id":2000000005,"nickname":"test","admin_id":648204453,"is_sync":true,"timestamp":1743352884}
+2025-03-30 18:41:24 - {"action":"set_nickname","user_id":"648204453","peer_id":2000000003,"nickname":"test","admin_id":648204453,"is_sync":false,"timestamp":1743352884}
+2025-03-30 18:41:31 - {"action":"mute_user","user_id":"648204453","peer_id":2000000005,"duration":10,"is_sync":true,"timestamp":1743352891}
+2025-03-30 18:41:32 - {"action":"mute_user","user_id":"648204453","peer_id":2000000003,"duration":10,"is_sync":false,"timestamp":1743352892}
+2025-03-30 18:46:17 - {"action":"mute_user","user_id":"20","peer_id":2000000005,"duration":300,"is_sync":false,"timestamp":1743353177}
+2025-03-30 18:46:42 - {"action":"mute_user","user_id":"100","peer_id":2000000005,"duration":300,"is_sync":false,"timestamp":1743353202}
+2025-03-30 18:48:27 - {"action":"mute_user","user_id":"10","peer_id":2000000005,"duration":300,"is_sync":false,"timestamp":1743353307}
+2025-03-30 18:48:45 - {"action":"mute_user","user_id":"10","peer_id":2000000003,"duration":300,"is_sync":false,"timestamp":1743353325}
+2025-03-30 18:51:18 - {"action":"mute_expired","user_id":20,"timestamp":1743353478}
+2025-03-30 18:51:43 - {"action":"mute_expired","user_id":100,"timestamp":1743353503}
+2025-03-30 18:53:51 - {"action":"mute_expired","user_id":10,"timestamp":1743353631}

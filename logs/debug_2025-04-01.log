@@ -1,0 +1,2 @@
+2025-04-01 14:29:19 - {"debug_mute_command":{"from_id":609274912,"reply_message":"нет","reply_user_id":null,"parts":["\/mute","[id648204453|@bloodisommych]","20"],"raw_message":{"date":1743510567,"from_id":609274912,"id":0,"version":10000094,"out":0,"fwd_messages":[],"important":false,"is_hidden":false,"attachments":[],"conversation_message_id":65,"text":"\/mute [id648204453|@bloodisommych] 20","is_unavailable":true,"peer_id":2000000006,"random_id":0}}}
+2025-04-01 14:29:19 - {"debug_mute_mention":"Используем ID из упоминания: 648204453"}

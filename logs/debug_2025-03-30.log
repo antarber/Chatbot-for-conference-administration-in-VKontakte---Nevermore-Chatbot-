@@ -1,0 +1,6 @@
+2025-03-30 18:48:26 - {"debug_mute_start":{"from_id":648204453,"reply_user_id":648204453,"parts":["\/mute","10"]}}
+2025-03-30 18:48:26 - {"debug_mute_resolved":{"resolved_user_id":"10","duration_index":2}}
+2025-03-30 18:48:44 - {"debug_mute_start":{"from_id":648204453,"reply_user_id":648204453,"parts":["\/mute","10"]}}
+2025-03-30 18:48:44 - {"debug_mute_resolved":{"resolved_user_id":"10","duration_index":2}}
+2025-03-30 18:49:54 - {"debug_mute_command":{"from_id":648204453,"reply_message":"есть","reply_user_id":648204453,"parts":["\/mute","10"],"raw_message":{"date":1743353401,"from_id":648204453,"id":0,"version":10000078,"out":0,"reply_message":{"date":1743353396,"from_id":648204453,"text":"123","attachments":[],"conversation_message_id":44,"id":875621,"peer_id":2000000209},"fwd_messages":[],"important":false,"is_hidden":false,"attachments":[],"conversation_message_id":45,"text":"\/mute 10","is_unavailable":true,"peer_id":2000000005,"random_id":0}}}
+2025-03-30 18:49:54 - {"debug_mute_reply":"Используем ID из ответа: 648204453"}

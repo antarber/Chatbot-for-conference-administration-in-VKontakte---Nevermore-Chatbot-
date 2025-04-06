@@ -1,0 +1,287 @@
+2025-04-02 15:00:37 - ОШИБКА: cURL ошибка: Operation timed out after 30013 milliseconds with 0 bytes received
+2025-04-02 15:00:37 - ОШИБКА: Ошибка Long Poll запроса: неожиданный тип ответа
+2025-04-02 15:01:08 - ОШИБКА: cURL ошибка: Failed to connect to api.vk.com port 443 after 21047 ms: Couldn't connect to server
+2025-04-02 15:01:08 - ОШИБКА: Не удалось получить Long Poll сервер: null
+2025-04-02 15:01:20 - ОШИБКА: cURL ошибка: Failed to connect to api.vk.com port 443 after 6685 ms: Couldn't connect to server
+2025-04-02 15:01:20 - ОШИБКА: Не удалось получить Long Poll сервер: null
+2025-04-02 15:01:25 - ОШИБКА: cURL ошибка: Could not resolve host: api.vk.com
+2025-04-02 15:01:25 - ОШИБКА: Не удалось получить Long Poll сервер: null
+2025-04-02 15:01:53 - ОШИБКА: cURL ошибка: Failed to connect to api.vk.com port 443 after 21052 ms: Couldn't connect to server
+2025-04-02 15:01:53 - ОШИБКА: Не удалось получить Long Poll сервер: null
+2025-04-02 15:02:19 - ОШИБКА: cURL ошибка: Failed to connect to api.vk.com port 443 after 21037 ms: Couldn't connect to server
+2025-04-02 15:02:19 - ОШИБКА: Не удалось получить Long Poll сервер: null
+2025-04-02 15:02:36 - ОШИБКА: cURL ошибка: Failed to connect to api.vk.com port 443 after 11928 ms: Couldn't connect to server
+2025-04-02 15:02:36 - ОШИБКА: Не удалось получить Long Poll сервер: null
+2025-04-02 15:02:53 - ОШИБКА: cURL ошибка: Could not resolve host: api.vk.com
+2025-04-02 15:02:53 - ОШИБКА: Не удалось получить Long Poll сервер: null
+2025-04-02 15:03:19 - ОШИБКА: cURL ошибка: Failed to connect to api.vk.com port 443 after 21034 ms: Couldn't connect to server
+2025-04-02 15:03:19 - ОШИБКА: Не удалось получить Long Poll сервер: null
+2025-04-02 15:04:05 - ОШИБКА: cURL ошибка: Failed to connect to api.vk.com port 443 after 21056 ms: Couldn't connect to server
+2025-04-02 15:04:05 - ОШИБКА: Не удалось получить Long Poll сервер: null
+2025-04-02 15:04:31 - ОШИБКА: cURL ошибка: Failed to connect to api.vk.com port 443 after 21033 ms: Couldn't connect to server
+2025-04-02 15:04:31 - ОШИБКА: Не удалось получить Long Poll сервер: null
+2025-04-02 15:04:57 - ОШИБКА: cURL ошибка: Failed to connect to api.vk.com port 443 after 21033 ms: Couldn't connect to server
+2025-04-02 15:04:57 - ОШИБКА: Не удалось получить Long Poll сервер: null
+2025-04-02 15:05:23 - ОШИБКА: cURL ошибка: Failed to connect to api.vk.com port 443 after 21038 ms: Couldn't connect to server
+2025-04-02 15:05:23 - ОШИБКА: Не удалось получить Long Poll сервер: null
+2025-04-02 15:05:49 - ОШИБКА: cURL ошибка: Failed to connect to api.vk.com port 443 after 21061 ms: Couldn't connect to server
+2025-04-02 15:05:49 - ОШИБКА: Не удалось получить Long Poll сервер: null
+2025-04-02 15:06:15 - ОШИБКА: cURL ошибка: Failed to connect to api.vk.com port 443 after 21041 ms: Couldn't connect to server
+2025-04-02 15:06:15 - ОШИБКА: Не удалось получить Long Poll сервер: null
+2025-04-02 15:06:41 - ОШИБКА: cURL ошибка: Failed to connect to api.vk.com port 443 after 21035 ms: Couldn't connect to server
+2025-04-02 15:06:41 - ОШИБКА: Не удалось получить Long Poll сервер: null
+2025-04-02 15:07:07 - ОШИБКА: cURL ошибка: Failed to connect to api.vk.com port 443 after 21040 ms: Couldn't connect to server
+2025-04-02 15:07:07 - ОШИБКА: Не удалось получить Long Poll сервер: null
+2025-04-02 15:07:33 - ОШИБКА: cURL ошибка: Failed to connect to api.vk.com port 443 after 21032 ms: Couldn't connect to server
+2025-04-02 15:07:33 - ОШИБКА: Не удалось получить Long Poll сервер: null
+2025-04-02 15:08:00 - ОШИБКА: cURL ошибка: Failed to connect to api.vk.com port 443 after 21051 ms: Couldn't connect to server
+2025-04-02 15:08:00 - ОШИБКА: Не удалось получить Long Poll сервер: null
+2025-04-02 15:08:26 - ОШИБКА: cURL ошибка: Failed to connect to api.vk.com port 443 after 21047 ms: Couldn't connect to server
+2025-04-02 15:08:26 - ОШИБКА: Не удалось получить Long Poll сервер: null
+2025-04-02 15:08:52 - ОШИБКА: cURL ошибка: Failed to connect to api.vk.com port 443 after 21039 ms: Couldn't connect to server
+2025-04-02 15:08:52 - ОШИБКА: Не удалось получить Long Poll сервер: null
+2025-04-02 15:09:18 - ОШИБКА: cURL ошибка: Failed to connect to api.vk.com port 443 after 21044 ms: Couldn't connect to server
+2025-04-02 15:09:18 - ОШИБКА: Не удалось получить Long Poll сервер: null
+2025-04-02 15:09:44 - ОШИБКА: cURL ошибка: Failed to connect to api.vk.com port 443 after 21037 ms: Couldn't connect to server
+2025-04-02 15:09:44 - ОШИБКА: Не удалось получить Long Poll сервер: null
+2025-04-02 15:10:10 - ОШИБКА: cURL ошибка: Failed to connect to api.vk.com port 443 after 21045 ms: Couldn't connect to server
+2025-04-02 15:10:10 - ОШИБКА: Не удалось получить Long Poll сервер: null
+2025-04-02 15:10:36 - ОШИБКА: cURL ошибка: Failed to connect to api.vk.com port 443 after 21038 ms: Couldn't connect to server
+2025-04-02 15:10:36 - ОШИБКА: Не удалось получить Long Poll сервер: null
+2025-04-02 15:11:02 - ОШИБКА: cURL ошибка: Failed to connect to api.vk.com port 443 after 21045 ms: Couldn't connect to server
+2025-04-02 15:11:02 - ОШИБКА: Не удалось получить Long Poll сервер: null
+2025-04-02 15:11:28 - ОШИБКА: cURL ошибка: Failed to connect to api.vk.com port 443 after 21039 ms: Couldn't connect to server
+2025-04-02 15:11:28 - ОШИБКА: Не удалось получить Long Poll сервер: null
+2025-04-02 15:11:54 - ОШИБКА: cURL ошибка: Failed to connect to api.vk.com port 443 after 21032 ms: Couldn't connect to server
+2025-04-02 15:11:54 - ОШИБКА: Не удалось получить Long Poll сервер: null
+2025-04-02 15:12:20 - ОШИБКА: cURL ошибка: Failed to connect to api.vk.com port 443 after 21040 ms: Couldn't connect to server
+2025-04-02 15:12:20 - ОШИБКА: Не удалось получить Long Poll сервер: null
+2025-04-02 15:12:46 - ОШИБКА: cURL ошибка: Failed to connect to api.vk.com port 443 after 21057 ms: Couldn't connect to server
+2025-04-02 15:12:46 - ОШИБКА: Не удалось получить Long Poll сервер: null
+2025-04-02 15:13:12 - ОШИБКА: cURL ошибка: Failed to connect to api.vk.com port 443 after 21039 ms: Couldn't connect to server
+2025-04-02 15:13:12 - ОШИБКА: Не удалось получить Long Poll сервер: null
+2025-04-02 15:13:38 - ОШИБКА: cURL ошибка: Failed to connect to api.vk.com port 443 after 21056 ms: Couldn't connect to server
+2025-04-02 15:13:38 - ОШИБКА: Не удалось получить Long Poll сервер: null
+2025-04-02 15:14:04 - ОШИБКА: cURL ошибка: Failed to connect to api.vk.com port 443 after 21043 ms: Couldn't connect to server
+2025-04-02 15:14:04 - ОШИБКА: Не удалось получить Long Poll сервер: null
+2025-04-02 15:14:14 - ОШИБКА: cURL ошибка: Could not resolve host: api.vk.com
+2025-04-02 15:14:14 - ОШИБКА: Не удалось получить Long Poll сервер: null
+2025-04-02 15:14:24 - ОШИБКА: cURL ошибка: Could not resolve host: api.vk.com
+2025-04-02 15:14:24 - ОШИБКА: Не удалось получить Long Poll сервер: null
+2025-04-02 15:14:34 - ОШИБКА: cURL ошибка: Could not resolve host: api.vk.com
+2025-04-02 15:14:34 - ОШИБКА: Не удалось получить Long Poll сервер: null
+2025-04-02 15:14:44 - ОШИБКА: cURL ошибка: Could not resolve host: api.vk.com
+2025-04-02 15:14:44 - ОШИБКА: Не удалось получить Long Poll сервер: null
+2025-04-02 15:14:54 - ОШИБКА: cURL ошибка: Could not resolve host: api.vk.com
+2025-04-02 15:14:54 - ОШИБКА: Не удалось получить Long Poll сервер: null
+2025-04-02 15:15:04 - ОШИБКА: cURL ошибка: Could not resolve host: api.vk.com
+2025-04-02 15:15:04 - ОШИБКА: Не удалось получить Long Poll сервер: null
+2025-04-02 15:15:14 - ОШИБКА: cURL ошибка: Could not resolve host: api.vk.com
+2025-04-02 15:15:14 - ОШИБКА: Не удалось получить Long Poll сервер: null
+2025-04-02 15:15:24 - ОШИБКА: cURL ошибка: Could not resolve host: api.vk.com
+2025-04-02 15:15:24 - ОШИБКА: Не удалось получить Long Poll сервер: null
+2025-04-02 15:15:34 - ОШИБКА: cURL ошибка: Could not resolve host: api.vk.com
+2025-04-02 15:15:34 - ОШИБКА: Не удалось получить Long Poll сервер: null
+2025-04-02 15:15:44 - ОШИБКА: cURL ошибка: Could not resolve host: api.vk.com
+2025-04-02 15:15:44 - ОШИБКА: Не удалось получить Long Poll сервер: null
+2025-04-02 15:15:54 - ОШИБКА: cURL ошибка: Could not resolve host: api.vk.com
+2025-04-02 15:15:54 - ОШИБКА: Не удалось получить Long Poll сервер: null
+2025-04-02 15:16:04 - ОШИБКА: cURL ошибка: Could not resolve host: api.vk.com
+2025-04-02 15:16:04 - ОШИБКА: Не удалось получить Long Poll сервер: null
+2025-04-02 15:16:14 - ОШИБКА: cURL ошибка: Could not resolve host: api.vk.com
+2025-04-02 15:16:14 - ОШИБКА: Не удалось получить Long Poll сервер: null
+2025-04-02 15:16:24 - ОШИБКА: cURL ошибка: Could not resolve host: api.vk.com
+2025-04-02 15:16:24 - ОШИБКА: Не удалось получить Long Poll сервер: null
+2025-04-02 15:16:34 - ОШИБКА: cURL ошибка: Could not resolve host: api.vk.com
+2025-04-02 15:16:34 - ОШИБКА: Не удалось получить Long Poll сервер: null
+2025-04-02 15:16:44 - ОШИБКА: cURL ошибка: Could not resolve host: api.vk.com
+2025-04-02 15:16:44 - ОШИБКА: Не удалось получить Long Poll сервер: null
+2025-04-02 15:16:54 - ОШИБКА: cURL ошибка: Could not resolve host: api.vk.com
+2025-04-02 15:16:54 - ОШИБКА: Не удалось получить Long Poll сервер: null
+2025-04-02 15:17:04 - ОШИБКА: cURL ошибка: Could not resolve host: api.vk.com
+2025-04-02 15:17:04 - ОШИБКА: Не удалось получить Long Poll сервер: null
+2025-04-02 15:17:14 - ОШИБКА: cURL ошибка: Could not resolve host: api.vk.com
+2025-04-02 15:17:14 - ОШИБКА: Не удалось получить Long Poll сервер: null
+2025-04-02 15:17:24 - ОШИБКА: cURL ошибка: Could not resolve host: api.vk.com
+2025-04-02 15:17:24 - ОШИБКА: Не удалось получить Long Poll сервер: null
+2025-04-02 15:17:34 - ОШИБКА: cURL ошибка: Could not resolve host: api.vk.com
+2025-04-02 15:17:34 - ОШИБКА: Не удалось получить Long Poll сервер: null
+2025-04-02 15:17:44 - ОШИБКА: cURL ошибка: Could not resolve host: api.vk.com
+2025-04-02 15:17:44 - ОШИБКА: Не удалось получить Long Poll сервер: null
+2025-04-02 15:17:54 - ОШИБКА: cURL ошибка: Could not resolve host: api.vk.com
+2025-04-02 15:17:54 - ОШИБКА: Не удалось получить Long Poll сервер: null
+2025-04-02 15:18:04 - ОШИБКА: cURL ошибка: Could not resolve host: api.vk.com
+2025-04-02 15:18:04 - ОШИБКА: Не удалось получить Long Poll сервер: null
+2025-04-02 15:18:14 - ОШИБКА: cURL ошибка: Could not resolve host: api.vk.com
+2025-04-02 15:18:14 - ОШИБКА: Не удалось получить Long Poll сервер: null
+2025-04-02 15:18:24 - ОШИБКА: cURL ошибка: Could not resolve host: api.vk.com
+2025-04-02 15:18:24 - ОШИБКА: Не удалось получить Long Poll сервер: null
+2025-04-02 15:18:34 - ОШИБКА: cURL ошибка: Could not resolve host: api.vk.com
+2025-04-02 15:18:34 - ОШИБКА: Не удалось получить Long Poll сервер: null
+2025-04-02 15:18:44 - ОШИБКА: cURL ошибка: Could not resolve host: api.vk.com
+2025-04-02 15:18:44 - ОШИБКА: Не удалось получить Long Poll сервер: null
+2025-04-02 15:18:54 - ОШИБКА: cURL ошибка: Could not resolve host: api.vk.com
+2025-04-02 15:18:54 - ОШИБКА: Не удалось получить Long Poll сервер: null
+2025-04-02 15:19:04 - ОШИБКА: cURL ошибка: Could not resolve host: api.vk.com
+2025-04-02 15:19:04 - ОШИБКА: Не удалось получить Long Poll сервер: null
+2025-04-02 15:19:14 - ОШИБКА: cURL ошибка: Could not resolve host: api.vk.com
+2025-04-02 15:19:14 - ОШИБКА: Не удалось получить Long Poll сервер: null
+2025-04-02 15:19:24 - ОШИБКА: cURL ошибка: Could not resolve host: api.vk.com
+2025-04-02 15:19:24 - ОШИБКА: Не удалось получить Long Poll сервер: null
+2025-04-02 15:19:34 - ОШИБКА: cURL ошибка: Could not resolve host: api.vk.com
+2025-04-02 15:19:34 - ОШИБКА: Не удалось получить Long Poll сервер: null
+2025-04-02 15:19:44 - ОШИБКА: cURL ошибка: Could not resolve host: api.vk.com
+2025-04-02 15:19:44 - ОШИБКА: Не удалось получить Long Poll сервер: null
+2025-04-02 15:19:54 - ОШИБКА: cURL ошибка: Could not resolve host: api.vk.com
+2025-04-02 15:19:54 - ОШИБКА: Не удалось получить Long Poll сервер: null
+2025-04-02 16:21:25 - ОШИБКА: cURL ошибка: Resolving timed out after 3678066 milliseconds
+2025-04-02 16:21:25 - ОШИБКА: Не удалось получить Long Poll сервер: null
+2025-04-02 16:21:42 - ОШИБКА: cURL ошибка: Could not resolve host: api.vk.com
+2025-04-02 16:21:42 - ОШИБКА: Не удалось получить Long Poll сервер: null
+2025-04-02 16:28:47 - ОШИБКА: cURL ошибка: Operation timed out after 30001 milliseconds with 0 bytes received
+2025-04-02 16:28:47 - ОШИБКА: Ошибка Long Poll запроса: неожиданный тип ответа
+2025-04-02 16:28:57 - ОШИБКА: cURL ошибка: Could not resolve host: lp.vk.com
+2025-04-02 16:28:57 - ОШИБКА: Ошибка Long Poll запроса: неожиданный тип ответа
+2025-04-02 16:29:07 - ОШИБКА: cURL ошибка: Could not resolve host: lp.vk.com
+2025-04-02 16:29:07 - ОШИБКА: Ошибка Long Poll запроса: неожиданный тип ответа
+2025-04-02 16:29:17 - ОШИБКА: cURL ошибка: Could not resolve host: lp.vk.com
+2025-04-02 16:29:17 - ОШИБКА: Ошибка Long Poll запроса: неожиданный тип ответа
+2025-04-02 16:29:27 - ОШИБКА: cURL ошибка: Could not resolve host: lp.vk.com
+2025-04-02 16:29:27 - ОШИБКА: Ошибка Long Poll запроса: неожиданный тип ответа
+2025-04-02 16:29:37 - ОШИБКА: cURL ошибка: Could not resolve host: lp.vk.com
+2025-04-02 16:29:37 - ОШИБКА: Ошибка Long Poll запроса: неожиданный тип ответа
+2025-04-02 16:29:47 - ОШИБКА: cURL ошибка: Could not resolve host: lp.vk.com
+2025-04-02 16:29:47 - ОШИБКА: Ошибка Long Poll запроса: неожиданный тип ответа
+2025-04-02 16:29:57 - ОШИБКА: cURL ошибка: Could not resolve host: lp.vk.com
+2025-04-02 16:29:57 - ОШИБКА: Ошибка Long Poll запроса: неожиданный тип ответа
+2025-04-02 16:30:07 - ОШИБКА: cURL ошибка: Could not resolve host: lp.vk.com
+2025-04-02 16:30:07 - ОШИБКА: Ошибка Long Poll запроса: неожиданный тип ответа
+2025-04-02 16:30:17 - ОШИБКА: cURL ошибка: Could not resolve host: lp.vk.com
+2025-04-02 16:30:17 - ОШИБКА: Ошибка Long Poll запроса: неожиданный тип ответа
+2025-04-02 16:30:27 - ОШИБКА: cURL ошибка: Could not resolve host: lp.vk.com
+2025-04-02 16:30:27 - ОШИБКА: Ошибка Long Poll запроса: неожиданный тип ответа
+2025-04-02 16:30:38 - ОШИБКА: cURL ошибка: Could not resolve host: lp.vk.com
+2025-04-02 16:30:38 - ОШИБКА: Ошибка Long Poll запроса: неожиданный тип ответа
+2025-04-02 16:30:47 - ОШИБКА: cURL ошибка: Could not resolve host: lp.vk.com
+2025-04-02 16:30:47 - ОШИБКА: Ошибка Long Poll запроса: неожиданный тип ответа
+2025-04-02 16:30:57 - ОШИБКА: cURL ошибка: Could not resolve host: lp.vk.com
+2025-04-02 16:30:57 - ОШИБКА: Ошибка Long Poll запроса: неожиданный тип ответа
+2025-04-02 16:31:07 - ОШИБКА: cURL ошибка: Could not resolve host: lp.vk.com
+2025-04-02 16:31:07 - ОШИБКА: Ошибка Long Poll запроса: неожиданный тип ответа
+2025-04-02 16:31:17 - ОШИБКА: cURL ошибка: Could not resolve host: lp.vk.com
+2025-04-02 16:31:17 - ОШИБКА: Ошибка Long Poll запроса: неожиданный тип ответа
+2025-04-02 16:31:27 - ОШИБКА: cURL ошибка: Could not resolve host: lp.vk.com
+2025-04-02 16:31:27 - ОШИБКА: Ошибка Long Poll запроса: неожиданный тип ответа
+2025-04-02 16:31:37 - ОШИБКА: cURL ошибка: Could not resolve host: lp.vk.com
+2025-04-02 16:31:37 - ОШИБКА: Ошибка Long Poll запроса: неожиданный тип ответа
+2025-04-02 16:31:47 - ОШИБКА: cURL ошибка: Could not resolve host: lp.vk.com
+2025-04-02 16:31:47 - ОШИБКА: Ошибка Long Poll запроса: неожиданный тип ответа
+2025-04-02 16:31:58 - ОШИБКА: cURL ошибка: Could not resolve host: lp.vk.com
+2025-04-02 16:31:58 - ОШИБКА: Ошибка Long Poll запроса: неожиданный тип ответа
+2025-04-02 16:32:09 - ОШИБКА: cURL ошибка: Could not resolve host: lp.vk.com
+2025-04-02 16:32:09 - ОШИБКА: Ошибка Long Poll запроса: неожиданный тип ответа
+2025-04-02 16:32:19 - ОШИБКА: cURL ошибка: Could not resolve host: lp.vk.com
+2025-04-02 16:32:19 - ОШИБКА: Ошибка Long Poll запроса: неожиданный тип ответа
+2025-04-02 16:32:29 - ОШИБКА: cURL ошибка: Could not resolve host: lp.vk.com
+2025-04-02 16:32:29 - ОШИБКА: Ошибка Long Poll запроса: неожиданный тип ответа
+2025-04-02 16:32:39 - ОШИБКА: cURL ошибка: Could not resolve host: lp.vk.com
+2025-04-02 16:32:39 - ОШИБКА: Ошибка Long Poll запроса: неожиданный тип ответа
+2025-04-02 16:32:49 - ОШИБКА: cURL ошибка: Could not resolve host: lp.vk.com
+2025-04-02 16:32:49 - ОШИБКА: Ошибка Long Poll запроса: неожиданный тип ответа
+2025-04-02 16:32:59 - ОШИБКА: cURL ошибка: Could not resolve host: lp.vk.com
+2025-04-02 16:32:59 - ОШИБКА: Ошибка Long Poll запроса: неожиданный тип ответа
+2025-04-02 16:33:09 - ОШИБКА: cURL ошибка: Could not resolve host: lp.vk.com
+2025-04-02 16:33:09 - ОШИБКА: Ошибка Long Poll запроса: неожиданный тип ответа
+2025-04-02 16:33:19 - ОШИБКА: cURL ошибка: Could not resolve host: lp.vk.com
+2025-04-02 16:33:19 - ОШИБКА: Ошибка Long Poll запроса: неожиданный тип ответа
+2025-04-02 16:33:29 - ОШИБКА: cURL ошибка: Could not resolve host: lp.vk.com
+2025-04-02 16:33:29 - ОШИБКА: Ошибка Long Poll запроса: неожиданный тип ответа
+2025-04-02 16:33:39 - ОШИБКА: cURL ошибка: Could not resolve host: lp.vk.com
+2025-04-02 16:33:39 - ОШИБКА: Ошибка Long Poll запроса: неожиданный тип ответа
+2025-04-02 16:33:49 - ОШИБКА: cURL ошибка: Could not resolve host: lp.vk.com
+2025-04-02 16:33:49 - ОШИБКА: Ошибка Long Poll запроса: неожиданный тип ответа
+2025-04-02 16:33:59 - ОШИБКА: cURL ошибка: Could not resolve host: lp.vk.com
+2025-04-02 16:33:59 - ОШИБКА: Ошибка Long Poll запроса: неожиданный тип ответа
+2025-04-02 16:34:09 - ОШИБКА: cURL ошибка: Could not resolve host: lp.vk.com
+2025-04-02 16:34:09 - ОШИБКА: Ошибка Long Poll запроса: неожиданный тип ответа
+2025-04-02 16:34:19 - ОШИБКА: cURL ошибка: Could not resolve host: lp.vk.com
+2025-04-02 16:34:19 - ОШИБКА: Ошибка Long Poll запроса: неожиданный тип ответа
+2025-04-02 16:34:29 - ОШИБКА: cURL ошибка: Could not resolve host: lp.vk.com
+2025-04-02 16:34:29 - ОШИБКА: Ошибка Long Poll запроса: неожиданный тип ответа
+2025-04-02 16:34:39 - ОШИБКА: cURL ошибка: Could not resolve host: lp.vk.com
+2025-04-02 16:34:39 - ОШИБКА: Ошибка Long Poll запроса: неожиданный тип ответа
+2025-04-02 16:34:49 - ОШИБКА: cURL ошибка: Could not resolve host: lp.vk.com
+2025-04-02 16:34:49 - ОШИБКА: Ошибка Long Poll запроса: неожиданный тип ответа
+2025-04-02 16:34:59 - ОШИБКА: cURL ошибка: Could not resolve host: lp.vk.com
+2025-04-02 16:34:59 - ОШИБКА: Ошибка Long Poll запроса: неожиданный тип ответа
+2025-04-02 16:35:09 - ОШИБКА: cURL ошибка: Could not resolve host: lp.vk.com
+2025-04-02 16:35:09 - ОШИБКА: Ошибка Long Poll запроса: неожиданный тип ответа
+2025-04-02 16:35:19 - ОШИБКА: cURL ошибка: Could not resolve host: lp.vk.com
+2025-04-02 16:35:19 - ОШИБКА: Ошибка Long Poll запроса: неожиданный тип ответа
+2025-04-02 16:35:29 - ОШИБКА: cURL ошибка: Could not resolve host: lp.vk.com
+2025-04-02 16:35:29 - ОШИБКА: Ошибка Long Poll запроса: неожиданный тип ответа
+2025-04-02 16:35:39 - ОШИБКА: cURL ошибка: Could not resolve host: lp.vk.com
+2025-04-02 16:35:39 - ОШИБКА: Ошибка Long Poll запроса: неожиданный тип ответа
+2025-04-02 16:35:49 - ОШИБКА: cURL ошибка: Could not resolve host: lp.vk.com
+2025-04-02 16:35:49 - ОШИБКА: Ошибка Long Poll запроса: неожиданный тип ответа
+2025-04-02 16:35:59 - ОШИБКА: cURL ошибка: Could not resolve host: lp.vk.com
+2025-04-02 16:35:59 - ОШИБКА: Ошибка Long Poll запроса: неожиданный тип ответа
+2025-04-02 16:36:09 - ОШИБКА: cURL ошибка: Could not resolve host: lp.vk.com
+2025-04-02 16:36:09 - ОШИБКА: Ошибка Long Poll запроса: неожиданный тип ответа
+2025-04-02 16:36:19 - ОШИБКА: cURL ошибка: Could not resolve host: lp.vk.com
+2025-04-02 16:36:19 - ОШИБКА: Ошибка Long Poll запроса: неожиданный тип ответа
+2025-04-02 16:36:29 - ОШИБКА: cURL ошибка: Could not resolve host: lp.vk.com
+2025-04-02 16:36:29 - ОШИБКА: Ошибка Long Poll запроса: неожиданный тип ответа
+2025-04-02 16:36:39 - ОШИБКА: cURL ошибка: Could not resolve host: lp.vk.com
+2025-04-02 16:36:39 - ОШИБКА: Ошибка Long Poll запроса: неожиданный тип ответа
+2025-04-02 16:36:49 - ОШИБКА: cURL ошибка: Could not resolve host: lp.vk.com
+2025-04-02 16:36:49 - ОШИБКА: Ошибка Long Poll запроса: неожиданный тип ответа
+2025-04-02 16:36:59 - ОШИБКА: cURL ошибка: Could not resolve host: lp.vk.com
+2025-04-02 16:36:59 - ОШИБКА: Ошибка Long Poll запроса: неожиданный тип ответа
+2025-04-02 16:37:09 - ОШИБКА: cURL ошибка: Could not resolve host: lp.vk.com
+2025-04-02 16:37:09 - ОШИБКА: Ошибка Long Poll запроса: неожиданный тип ответа
+2025-04-02 18:01:53 - ОШИБКА: cURL ошибка: Resolving timed out after 5070210 milliseconds
+2025-04-02 18:01:53 - ОШИБКА: Ошибка Long Poll запроса: неожиданный тип ответа
+2025-04-02 18:02:03 - ОШИБКА: cURL ошибка: Could not resolve host: lp.vk.com
+2025-04-02 18:02:03 - ОШИБКА: Ошибка Long Poll запроса: неожиданный тип ответа
+2025-04-02 18:02:16 - ОШИБКА: cURL ошибка: Could not resolve host: lp.vk.com
+2025-04-02 18:02:16 - ОШИБКА: Ошибка Long Poll запроса: неожиданный тип ответа
+2025-04-02 18:02:27 - ОШИБКА: cURL ошибка: Could not resolve host: lp.vk.com
+2025-04-02 18:02:27 - ОШИБКА: Ошибка Long Poll запроса: неожиданный тип ответа
+2025-04-02 18:02:36 - ОШИБКА: cURL ошибка: Could not resolve host: lp.vk.com
+2025-04-02 18:02:36 - ОШИБКА: Ошибка Long Poll запроса: неожиданный тип ответа
+2025-04-02 18:02:46 - ОШИБКА: cURL ошибка: Could not resolve host: lp.vk.com
+2025-04-02 18:02:46 - ОШИБКА: Ошибка Long Poll запроса: неожиданный тип ответа
+2025-04-02 18:02:56 - ОШИБКА: cURL ошибка: Could not resolve host: lp.vk.com
+2025-04-02 18:02:56 - ОШИБКА: Ошибка Long Poll запроса: неожиданный тип ответа
+2025-04-02 18:03:06 - ОШИБКА: cURL ошибка: Could not resolve host: lp.vk.com
+2025-04-02 18:03:06 - ОШИБКА: Ошибка Long Poll запроса: неожиданный тип ответа
+2025-04-02 18:03:16 - ОШИБКА: cURL ошибка: Could not resolve host: lp.vk.com
+2025-04-02 18:03:16 - ОШИБКА: Ошибка Long Poll запроса: неожиданный тип ответа
+2025-04-02 18:03:26 - ОШИБКА: cURL ошибка: Could not resolve host: lp.vk.com
+2025-04-02 18:03:26 - ОШИБКА: Ошибка Long Poll запроса: неожиданный тип ответа
+2025-04-02 18:03:36 - ОШИБКА: cURL ошибка: Could not resolve host: lp.vk.com
+2025-04-02 18:03:36 - ОШИБКА: Ошибка Long Poll запроса: неожиданный тип ответа
+2025-04-02 18:03:47 - ОШИБКА: cURL ошибка: Could not resolve host: lp.vk.com
+2025-04-02 18:03:47 - ОШИБКА: Ошибка Long Poll запроса: неожиданный тип ответа
+2025-04-02 18:03:56 - ОШИБКА: cURL ошибка: Could not resolve host: lp.vk.com
+2025-04-02 18:03:56 - ОШИБКА: Ошибка Long Poll запроса: неожиданный тип ответа
+2025-04-02 18:04:06 - ОШИБКА: cURL ошибка: Could not resolve host: lp.vk.com
+2025-04-02 18:04:06 - ОШИБКА: Ошибка Long Poll запроса: неожиданный тип ответа
+2025-04-02 18:04:16 - ОШИБКА: cURL ошибка: Could not resolve host: lp.vk.com
+2025-04-02 18:04:16 - ОШИБКА: Ошибка Long Poll запроса: неожиданный тип ответа
+2025-04-02 18:04:26 - ОШИБКА: cURL ошибка: Could not resolve host: lp.vk.com
+2025-04-02 18:04:26 - ОШИБКА: Ошибка Long Poll запроса: неожиданный тип ответа
+2025-04-02 18:04:36 - ОШИБКА: cURL ошибка: Could not resolve host: lp.vk.com
+2025-04-02 18:04:36 - ОШИБКА: Ошибка Long Poll запроса: неожиданный тип ответа
+2025-04-02 18:04:46 - ОШИБКА: cURL ошибка: Could not resolve host: lp.vk.com
+2025-04-02 18:04:46 - ОШИБКА: Ошибка Long Poll запроса: неожиданный тип ответа
+2025-04-02 18:04:56 - ОШИБКА: cURL ошибка: Could not resolve host: lp.vk.com
+2025-04-02 18:04:56 - ОШИБКА: Ошибка Long Poll запроса: неожиданный тип ответа
+2025-04-02 18:05:06 - ОШИБКА: cURL ошибка: Could not resolve host: lp.vk.com
+2025-04-02 18:05:06 - ОШИБКА: Ошибка Long Poll запроса: неожиданный тип ответа
+2025-04-02 18:05:23 - ОШИБКА: cURL ошибка: Could not resolve host: lp.vk.com
+2025-04-02 18:05:23 - ОШИБКА: Ошибка Long Poll запроса: неожиданный тип ответа
+2025-04-02 18:05:29 - ОШИБКА: Long Poll ошибка: {"failed":2}
+2025-04-02 19:38:40 - ОШИБКА: cURL ошибка: Operation timed out after 30009 milliseconds with 0 bytes received
+2025-04-02 19:38:40 - ОШИБКА: Ошибка Long Poll запроса: неожиданный тип ответа

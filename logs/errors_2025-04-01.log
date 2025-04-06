@@ -1,0 +1,15 @@
+2025-04-01 14:27:44 - ОШИБКА: cURL ошибка: Operation timed out after 2224929 milliseconds with 0 bytes received
+2025-04-01 14:27:45 - ОШИБКА: Ошибка Long Poll запроса: неожиданный тип ответа
+2025-04-01 14:34:53 - ОШИБКА: Long Poll ошибка: {"failed":2}
+2025-04-01 15:35:09 - ОШИБКА: Long Poll ошибка: {"failed":2}
+2025-04-01 16:21:23 - ОШИБКА: cURL ошибка: Operation timed out after 2680795 milliseconds with 0 bytes received
+2025-04-01 16:21:23 - ОШИБКА: Ошибка Long Poll запроса: неожиданный тип ответа
+2025-04-01 16:35:19 - ОШИБКА: Long Poll ошибка: {"failed":2}
+2025-04-01 18:46:03 - ОШИБКА: Long Poll ошибка: {"failed":2}
+2025-04-01 19:03:10 - ОШИБКА: cURL ошибка: Operation timed out after 565309 milliseconds with 0 bytes received
+2025-04-01 19:03:11 - ОШИБКА: Ошибка Long Poll запроса: неожиданный тип ответа
+2025-04-01 19:51:22 - ОШИБКА: cURL ошибка: Operation timed out after 1966716 milliseconds with 0 bytes received
+2025-04-01 19:51:22 - ОШИБКА: Ошибка Long Poll запроса: неожиданный тип ответа
+2025-04-01 19:51:27 - ОШИБКА: Long Poll ошибка: {"failed":2}
+2025-04-01 20:33:17 - ОШИБКА: cURL ошибка: Operation timed out after 658344 milliseconds with 0 bytes received
+2025-04-01 20:33:17 - ОШИБКА: Ошибка Long Poll запроса: неожиданный тип ответа
